@@ -1631,37 +1631,6 @@
 ամենամսյա/DEA4G4I4L4PP
 ամենայն/DEABGEINLOPP
 ամենանզով/DEABGEINLOPP
-ամենանվիրական/DEABGEINLOPP
-ամենանվիրյալ/DEABGEINLOPP
-ամենանրբազգաց/DEABGEINLOPP
-ամենանրբին/DEABGEINLOPP
-ամենաշատ/DEABGEINLOPM
-ամենաշնորհակալ/DEABGEINLOPP
-ամենաշոգ/DEABGEINLOPM
-ամենաշքեղ/DEABGEINLOPP
-ամենաողբերգական/DEABGEINLOPP
-ամենաորկրամոլ/DEABGEINLOPP
-ամենաուժգին/DEABGEINLOPP
-ամենաուժեղ/DEABGEINLOPP
-ամենաուղիղ/DEABGEINLOPP
-ամենաուշագրավ/DEABGEINLOPP
-ամենաուրախ/DEABGEINLOPP
-ամենաչար/DEABGEINLOPP
-ամենաչարակամ/DEABGEINLOPP
-ամենաչնչին/DEABGEINLOPP
-ամենաչքնաղ/DEABGEINLOPP
-ամենապայծառ/DEABGEINLOPP
-ամենապատասխանատու/DEABGEINLOPP
-ամենապատիժ/DEPPAXGXIXLX
-ամենապատկառ/DEABGEINLOPP
-ամենապատշաճ/DEABGEINLOPP
-ամենապատվական/DEABGEINLOPP
-ամենապատվավոր/DEABGEINLOPP
-ամենապատրաստ/DEABGEINLOPP
-ամենապարզ/DEABGEINLOPM
-ամենապարզունակ/DEABGEINLOPP
-ամենապարփակ/DEABGEINLOPP
-ամենապիրկ/DEABGEINLOPM
 ամենաջերմ/DEABGEINLOPM
 ամենաջրառատ/DEABGEINLOPP
 ամենասարասափելի/DEABGEINLOPP
@@ -45747,7 +45716,7 @@
 նրբագեղմ/DEABGEINLOPM
 նրբագեղորեն
 նրբագույն
-նրբազգաց
+նրբազգաց/CCDEABGEINLOPP
 նրբազգացություն
 նրբազգացում/DEABG9I3GEPPIN
 նրբազնին/DEABGEINLOPP
@@ -45833,7 +45802,7 @@
 նրբիմաստ/DEABGEINLOPP
 նրբիմացորեն
 նրբիմացություն/DEABG1I1INLOPP
-նրբին/DEABGEINLOPP
+նրբին/CCDEABGEINLOPP
 նրբինություն/DEABG1I1INLOPP
 նրբիրան/DEABGEINLOPP
 նրբորեն
@@ -46116,7 +46085,7 @@
 շավաղ/DEABGEINLOPP
 շավիղ/DEPPAXGXIXLX
 շատ-շատ
-շատ/DEABGEINLOPM
+շատ/CCDEABGEINLOPM
 շատաբան/DEABGEINLOPP
 շատաբանություն/DEABG1I1INLOPP
 շատազրույց
@@ -46751,7 +46720,7 @@
 շնորհալի/DEA2G2I2L2PP
 շնորհալիություն/DEABG1I1INLOPP
 շնորհալից/DE
-շնորհակալ/DEABGEINLOPP
+շնորհակալ/CCDEABGEINLOPP
 շնորհակալագիր/DEAXGXIXLXPX
 շնորհակալական/DEABGEINLOPP
 շնորհակալիք/DEABGEINLOPP
@@ -46851,7 +46820,7 @@
 շշպռել/CHVAVBDEA2G2INLO
 շշպռոց/DEABGEINLOPP
 շշպրանք/DEABGEINLOPP
-շոգ/DEABGEINLOPM
+շոգ/CCDEABGEINLOPM
 շոգեաղաց
 շոգեբաղնիս/DEABGEINLOPP
 շոգեբաղնիք/DEABGEINLOPP
@@ -47384,7 +47353,7 @@
 շքավորել/CHVAVBDEA2G2INLO
 շքարան/DEABGEINLOPP
 շքափողոց/DEABGEINLOPP
-շքեղ/DEABGEINLOPP
+շքեղ/CCDEABGEINLOPP
 շքեղաբար
 շքեղազարդ/DEABGEINLOPM
 շքեղազարդել/CHVAVBDEA2G2INLO
@@ -47541,7 +47510,7 @@
 ողբերգ/DEABGEINLOPM
 ողբերգագիր/DEAXGXIXLXPX
 ողբերգակ/DEABGEINLOPP
-ողբերգական/DEABGEINLOPP
+ողբերգական/CCDEABGEINLOPP
 ողբերգականորեն
 ողբերգականություն/DEABG1I1INLOPP
 ողբերգակատակերգություն/DEABG1I1INLOPP
@@ -48129,7 +48098,7 @@
 որկորային/DEABGEINLOPP
 որկորմտություն/DEABG1I1INLO
 որկորուստ/DEABGEINLO
-որկրամոլ/DEABGEINLOPP
+որկրամոլ/CCDEABGEINLOPP
 որկրամոլորեն
 որկրամոլություն/DEABG1I1INLOPP
 որձ/DEABGEINLOPM
@@ -48441,7 +48410,7 @@
 ուժատում/DEABG9I3GEPPIN
 ուժատվել/CHVAVBDEA2G2INLO
 ուժաքամ/DEABGEINLO
-ուժգին/DEABGEINLO
+ուժգին/CCDEABGEINLO
 ուժգնաբախ/DEABGEINLOPP
 ուժգնաբար
 ուժգնաբարբառ
@@ -48459,7 +48428,7 @@
 ուժգնել/CHVAVBDEA2G2INLO
 ուժգնորեն
 ուժգնություն/DEABG1I1INLOPP
-ուժեղ/DEABGEINLOPP
+ուժեղ/CCDEABGEINLOPP
 ուժեղաձիգ
 ուժեղանալ/CHVAVCDEA2G2INLO
 ուժեղապես
@@ -48682,7 +48651,7 @@
 ուղեփոխիչ/DEABGEINLOPP
 ուղեքարտեզ
 ուղի/DEA2G2I2L2PP
-ուղիղ/DEABGEINLOPP
+ուղիղ/CCDEABGEINLOPP
 ուղիսկ/DEABGEINLO
 ուղխ/DEABGEINLOPM
 ուղխահոս
@@ -48895,7 +48864,7 @@
 ուշաբերում/DEABG9I3GEPPIN
 ուշագնաց/DEABGEINLOPP
 ուշագնացություն/DEABG1I1INLOPP
-ուշագրավ/DEABGEINLOPP
+ուշագրավ/CCDEABGEINLOPP
 ուշագրավություն/DEABG1I1INLOPP
 ուշադիր/DEABG1I1INLOPP
 ուշադրություն/DEABG1I1INLOPP
@@ -49120,7 +49089,7 @@
 ուրալյան
 ուրախ-զվարթ
 ուրախ-ուրախ
-ուրախ/DEABGEINLOPP
+ուրախ/CCDEABGEINLOPP
 ուրախաբեր/DEABGEINLO
 ուրախագին/DEPXAXGXIXLX
 ուրախադեմ
@@ -49286,7 +49255,7 @@
 չաչակալ/CHVAVBDEA2G2INLO
 չաչանակ/DEABGEINLOPP
 չաստված
-չար/DEABGEINLOPM
+չար/CCDEABGEINLOPM
 չարաբախտ/DEABGEINLOPP
 չարաբախտիկ/DEABGEINLOPP
 չարաբախտություն/DEABG1I1INLOPP
@@ -49350,7 +49319,7 @@
 չարախրատ/DEABGEINLOPP
 չարածին/DEAXGXIXLXPP
 չարածնունդ/DEPPAXGXIXLXABGEINLO
-չարակամ/DEABGEINLOPP
+չարակամ/CCDEABGEINLOPP
 չարակամաբար
 չարակամորեն
 չարակամություն/DEABG1I1INLOPP
@@ -49917,7 +49886,7 @@
 չքմեղանք/DEABGEINLOPP
 չքմեղել/CHVAVBDEA2G2INLO
 չքմեղություն/DEABG1I1INLOPP
-չքնաղ/DEABGEINLOPP
+չքնաղ/CCDEABGEINLOPP
 չքնաղաբար
 չքնաղագեղ/DEABGEINLOPM
 չքնաղադեմ
@@ -50218,7 +50187,7 @@
 պայթուցիչ/DEABGEINLOPP
 պայիկ/DEABGEINLOPP
 պայլ/DEABGEINLOPM
-պայծառ/DEABGEINLOPP
+պայծառ/CCDEABGEINLOPP
 պայծառաբար
 պայծառագեղ/DEABGEINLOPM
 պայծառագեղություն/DEABG1I1INLOPP
@@ -50612,7 +50581,7 @@
 պատասխան/DEABGEINLOPP
 պատասխանագիր/DEAXGXIXLXPX
 պատասխանական/DEABGEINLOPP
-պատասխանատու/DEABGEINLOPP
+պատասխանատու/CCDEABGEINLOPP
 պատասխանատվություն/DEABG1I1INLO
 պատասխանել/CHVAVBDEA2G2INLO
 պատասխանորդ/DEABGEINLOPP
@@ -50705,7 +50674,7 @@
 պատժողական/DEABGEINLOPP
 պատժում/DEABG9I3GEPPIN
 պատժվել/CHVAVBDEA2G2INLO
-պատիժ/DEPPAXGXIXLX
+պատիժ/CCDEPPAXGXIXLX
 պատիճ/DEABGEINLOPP
 պատիճաբույս/DEABGEINLOPM
 պատիճաձև
@@ -50868,7 +50837,7 @@
 պատնիշապատ/DEABGEINLOPP
 պատնիշափակ/DEABGEINLOPP
 պատնիվեր/DEABGEINLO
-պատշաճ/DEABGEINLOPP
+պատշաճ/CCDEABGEINLOPP
 պատշաճաբար
 պատշաճապես
 պատշաճավոր
@@ -50924,7 +50893,7 @@
 պատվալից
 պատվախնդիր
 պատվախնդրութտուն
-պատվական
+պատվական/CCDEABGEINLOPP
 պատվականապես
 պատվականություն/DEABG1I1INLO
 պատվակիր
@@ -50961,7 +50930,7 @@
 պատվաստում/DEABG9I3GEPPIN
 պատվաստունակ
 պատվաստվել/CHVAVBDEA2G2INLO
-պատվավոր
+պատվավոր/CCDEABGEINLOPP
 պատվավորապես
 պատվավորություն/DEABG1I1INLO
 պատվատիտղոս
@@ -51005,7 +50974,7 @@
 պատրանքածին/DEAXGXIXLXPP
 պատրանքային/DEABGEINLOPP
 պատրանքայնություն/DEABG1I1INLOPP
-պատրաստ/DEABGEINLO
+պատրաստ/CCDEABGEINLO
 պատրաստակամ/DEABGEINLOPP
 պատրաստակամորեն
 պատրաստակամություն/DEABG1I1INLOPP
@@ -51210,7 +51179,7 @@
 պարերգություն/DEABG1I1INLOPP
 պարերեկույթ
 պարեցնել/CHVAVEDEA2G2INLO
-պարզ/DEABGEINLOPM
+պարզ/CCDEABGEINLOPM
 պարզաբանել/CHVAVBDEA2G2INLO
 պարզաբանելի/DEABGEINLOPP
 պարզաբանություն/DEABG1I1INLOPP
@@ -51269,7 +51238,7 @@
 պարզուկ/DEABGEINLOPP
 պարզում/DEABG9I3GEPPIN
 պարզուն/DEPPAXGXIXLX
-պարզունակ/DEABGEINLOPP
+պարզունակ/CCDEABGEINLOPP
 պարզունակացնել/CHVAVEDEA2G2INLO
 պարզունակացում/DEABG9I3GEPPIN
 պարզունակեցնել/CHVAVEDEA2G2INLO
@@ -51506,7 +51475,7 @@
 պարտք/DEABGEINLOPM
 պարտքակոխ/DEABGEINLO
 պարտքատեր
-պարփակ/DEABGEINLOPP
+պարփակ/CCDEABGEINLOPP
 պարփակել/CHVAVBDEA2G2INLO
 պարփակում/DEABG9I3GEPPIN
 պարփակվել/CHVAVBDEA2G2INLO
@@ -51656,7 +51625,7 @@
 պիտո
 պիտուկ/DEABGEINLOPP
 պիտույք
-պիրկ/DEABGEINLO
+պիրկ/CCDEABGEINLO
 պիրոլ
 պլան-քարտեզ
 պլան/DEABGEINLOPP
