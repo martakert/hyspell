@@ -400,12 +400,13 @@ SFX G7	եր	որ/DEABINLO           .
 SFX G7	ուստր	ստեր/DE   .
 
 # ոջ նու
-SFX G8 	Y 5
+SFX G8 	Y 6
 SFX G8  0	ոջ/DEABINLO	.
 SFX G8	ույր	րոջ/DEABINLO	.
 SFX G8	ին	նոջ/DEABINLO	.
 SFX G8	ին	նու/DEABINLO	.
 SFX G8  ուր	րոջ/DEABINLO	.
+SFX G8  տեր	տիրոջ/DEABINLO	.
 
 # ման
 SFX G9 	Y 1
