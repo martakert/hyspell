@@ -393,11 +393,12 @@ SFX G4 Y 2
 SFX G4  ա	այի/DE	.
 SFX G4  ո	ոյի/DE	.
 
-# օր
-SFX G7 Y 3
-SFX G7	այր	որ/DEABINLO           .
-SFX G7	եր	որ/DEABINLO           .
-SFX G7	ուստր	ստեր/DE   .
+# այր
+SFX G7 Y 4
+SFX G7	այր	որ/DEABINLO	.
+SFX G7	եր	որ/DEABINLO	.
+SFX G7	ուստր	ստեր/DE		.
+SFX G7	տեր	տիրոջ/DE	.
 
 # ոջ նու
 SFX G8 	Y 6
