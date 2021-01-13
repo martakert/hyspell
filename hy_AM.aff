@@ -398,7 +398,7 @@ SFX G7 Y 4
 SFX G7	այր	որ/DEABINLO	.
 SFX G7	եր	որ/DEABINLO	.
 SFX G7	ուստր	ստեր/DE		.
-SFX G7	տեր	տիրոջ/DE	.
+SFX G7	մեջ	միջի/DE		.
 
 # ոջ նու
 SFX G8 	Y 6
