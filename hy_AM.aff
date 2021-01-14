@@ -160,6 +160,10 @@ SFX AB	0	իցն	.
 #SFX AC 	ի	վանիցը	.
 #SFX AC		ի	վանիցն	.
 
+# ablative միջից
+SFX A3 Y 1
+SFX A3 մեջ	միջից/DE .
+
 # ayi, oyi
 SFX A4 Y 2
 SFX A4  ա	այից/DE	.
@@ -229,6 +233,10 @@ SFX I1   յուն	յամբ/DE          .
 # եկեղեցով
 SFX I2 Y 1
 SFX I2  ի       ով/DE   .
+
+# միջից
+SFX I3 Y 1
+SFX I3 մեջ	միջով/DE .
 
 # ayi, oyi
 SFX I4 Y 2
@@ -311,6 +319,10 @@ SFX LO  0       ումը    .
 # locative  եկեղեցում
 SFX L2 Y 1
 SFX L2  ի       ում/DE  .
+
+# locative միջում
+SFX L3 Y 1
+SFX L3 մեջ	միջում/DE .
 
 # ayi, oyi
 SFX L4 Y 2
