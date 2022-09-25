@@ -2006,6 +2006,7 @@
 այլերկրացի/DEA2G2I2L2PP
 այլերկրյա/DEA4G4I4L4PP
 այլընտրանք/DEABGEINLOPP
+այլընտրանքային/DEABGEINLO
 այլիմաստ/DEABGEINLOPP
 այլմոլորակային/DEABGEINLOPP
 այլոց
@@ -15964,6 +15965,7 @@
 դիտահոր/DEABGEINLOPM
 դիտահորիզոն/DEABGEINLOPP
 դիտաճեղք/DEABGEINLOPM
+դիտանկյուն/DEABG1I1INLOPP
 դիտանոց/DEABGEINLOPP
 դիտանցք/DEABGEINLOPP
 դիտապաստ/DEABGEINLOPP
@@ -17263,7 +17265,7 @@
 եռանիստ/DEABGEINLOPM
 եռանիվ/DE
 եռանկար
-եռանկյուն/DEABGEINLOPP
+եռանկյուն/DEABG1I1INLOPP
 եռանկյունաձև/DE
 եռանկյունաչափական/DE
 եռանկյունաչափություն/DEABG1I1INLO
@@ -19935,6 +19937,7 @@
 ընթերակայական/DEABGEINLOPP
 ընթերակայել/CHVAVBDEA2G2INLO
 ընթերակայություն/DEABG1I1INLOPP
+ընթերակցություն/DEABG1I1INLOPP
 ընթերցադահլիճ/DEABGEINLOPP
 ընթերցամոլ/DEABGEINLOPP
 ընթերցանություն/DEABG1I1INLOPP
@@ -28049,7 +28052,7 @@
 ծուռ-կող
 ծուռ-մուռ
 ծուռ/DEABGEINLOPP
-ծուռանկյուն
+ծուռանկյուն/DEABG1I1INLOPP
 ծուռաչվի/DE
 ծուռաչք/DEABGEINLO
 ծուռբերան/DEABGEINLOPP
@@ -33482,6 +33485,7 @@
 համերկրային/DE
 համերկրացի/DEA2G2I2L2PP
 համեցեք
+համընդգրկուն/DE
 համընդհանրություն/DEABG1I1INLOPP
 համընդհանուր/DEABGEINLOPP
 համընթաց/DEABGEINLOPP
@@ -34282,6 +34286,7 @@
 հանցագործություն/DEABG1I1INLO
 հանցագործուհի/DEA2G2I2L2PP
 հանցալից
+հանցախումբ/DEPXAXGXIXLX
 հանցակազմ/DEABGEINLOPP
 հանցական
 հանցակից/DEAXGXIXLXPP
@@ -34817,7 +34822,7 @@
 հավասարակողմ/DEABGEINLOPM
 հավասարահանճար/DEABGEINLOPP
 հավասարամեծ/DEABGEINLO
-հավասարանկյուն/DE
+հավասարանկյուն/DEABG1I1INLOPP
 հավասարանկյունանի/DE
 հավասարանշանակ/DEABGEINLOPP
 հավասարաչափ/DEABGEINLOPP
@@ -36943,7 +36948,7 @@
 հնգամսյա/DE
 հնգանիշ/DEABGEINLOPP
 հնգանիստ/DEABGEINLOPM
-հնգանկյուն/DEABGEINLOPP
+հնգանկյուն/DEABG1I1INLOPP
 հնգանկյունանի/DE
 հնգանկյունի/DEA2G2I2L2PP
 հնգանոց/DEABGEINLOPP
@@ -40701,9 +40706,10 @@
 մանրածաղիկ/DEPPAXGXIXLX
 մանրածառ/DEABGEINLOPM
 մանրածառուտ/DEABGEINLOPP
-մանրածավալ/DEABGEINLOPP
-մանրակազմ/DEABGEINLOPM
-մանրակաթիլ/DEABGEINLOPP
+մանրածավալ/DEABGEINLO
+մանրակ/DEABGEINLOPP
+մանրակազմ/DEABGEINLO
+մանրակաթիլ/DEABGEINLO
 մանրակալվածք/DEABGEINLOPP
 մանրակերտ/DEABGEINLOPP
 մանրակորիզ/DEABGEINLOPP
@@ -43737,7 +43743,7 @@
 յոթանասունվեց/DEABGEINLOPM
 յոթանասունութ/DEABGEINLOPM
 յոթանիստ/DE
-յոթանկյուն/DE
+յոթանկյուն/DEABG1I1INLOPP
 յոթանկյունանի/DEA2G2I2L2PP
 յոթանկյունի/DEA2G2I2L2PP
 յոթանոց/DEPP
@@ -43786,7 +43792,7 @@
 յոթնամսական/DE
 յոթնամսյա/DE
 յոթնանիստ/DE
-յոթնանկյուն/DE
+յոթնանկյուն/DEABG1I1INLOPP
 յոթնանկյունի/DE
 յոթնանոց/DE
 յոթնանուն/DE
@@ -46311,7 +46317,7 @@
 շեղաձիգ/DE
 շեղաձուկ/DEGDPX
 շեղանիստ/DEABGEINLOPM
-շեղանկյուն/DE
+շեղանկյուն/DEABG1I1INLOPP
 շեղանկյունի/DEA2G2I2L2PP
 շեղաչ/DEABGEINLO
 շեղաչյա
@@ -48816,7 +48822,7 @@
 չորեքաղի/DEABGEINLOPP
 չորեքաղյան/DE
 չորեքանիվ/DE
-չորեքանկյուն/DE
+չորեքանկյուն/DEABG1I1INLOPP
 չորեքգլխյան/DE
 չորեքթաթ/DEABGEINLOPM
 չորեքթևյան/DE
@@ -55551,7 +55557,7 @@
 սրամտություն/DEABG1I1INLOPP
 սրան
 սրանալ/CHVAVCDEA2G2INLO
-սրանկյուն/DE
+սրանկյուն/DEABG1I1INLOPP
 սրանկյունի/DEA2G2I2L2PP
 սրանց
 սրանք
@@ -57755,7 +57761,7 @@
 վեցամսյա/DEA4G4I4L4PP
 վեցամսյակ/DEABGEINLOPP
 վեցանիստ/DEABGEINLOPM
-վեցանկյուն/DEABGEINLOPP
+վեցանկյուն/DEABG1I1INLOPP
 վեցանկյունանի/DEABGEINLOPP
 վեցանկյունի/DEABGEINLOPP
 վեցանոց/DEABGEINLOPP
@@ -58630,7 +58636,7 @@
 տասնամյակ/DEABGEINLOPP
 տասնամսյա
 տասնանիստ/DEABGEINLOPM
-տասնանկյուն/DE
+տասնանկյուն/DEABG1I1INLOPP
 տասնանկյունի/DEA2G2I2L2PP
 տասնապատիկ/DEABGEINLOPP
 տասնապատկել/CHVAVBDEA2G2INLO
@@ -60838,7 +60844,7 @@
 ութամսյա
 ութանիստ/DEABGEINLOPM
 ութանիվ/DE
-ութանկյուն/DE
+ութանկյուն/DEABG1I1INLOPP
 ութանկյունի/DEA2G2I2L2PP
 ութանոց/DEABGEINLOPP
 ութապատիկ/DEABGEINLOPP
@@ -61238,7 +61244,7 @@
 ուղղամիտ/DEABGEINLO
 ուղղամտորեն
 ուղղամտություն/DEABG1I1INLOPP
-ուղղանկյուն/DE
+ուղղանկյուն/DEABG1I1INLOPP
 ուղղանկյունի/DEA2G2I2L2PP
 ուղղապես
 ուղղասիրտ/DEAXGXIXLXPX
@@ -62650,6 +62656,7 @@
 փողամոլություն/DEABG1I1INLOPP
 փողային/DEABGEINLOPP
 փողանցք/DEABGEINLOPP
+փողաշուշան/DEABGEINLOPP
 փողապահ/DEABGEINLOPP
 փողապաշտ/DEABGEINLOPP
 փողապաշտություն/DEABG1I1INLOPP
@@ -63597,7 +63604,7 @@
 քառանիշ/DEABGEINLOPP
 քառանիստ/DEABGEINLOPM
 քառանիվ/DE
-քառանկյուն/DE
+քառանկյուն/DEABG1I1INLOPP
 քառանկյունի/DEA2G2I2L2PP
 քառանվագ/DE
 քառաշար/DEABGEINLOPM
