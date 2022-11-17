@@ -1,5 +1,5 @@
 # hyspell
- Armenian language spellchecker for Hunspell and Vi.
+ Armenian language spellchecker for Hunspell platform and Vim editor.
 
 ## installation
 1. Download `hy_AM.dic` and `hy_AM.aff` files.
