@@ -1,4 +1,4 @@
-65335
+65344
 Ալբանիա/DEA4G4I4L4PP
 Արմենիա/DEA4G4I4L4
 Արցախ/DEABGEINLO
@@ -8650,6 +8650,7 @@
 բազմադիմություն/DEABG1I1INLOPP
 բազմադրվագ/DE
 բազմազան/CCDEABGEINLO
+բազմազանեցում/DEABG9I3GEPPIN
 բազմազանություն/DEABG1I1INLOPP
 բազմազավակ/DEABGEINLOPP
 բազմազավակություն/DEABG1I1INLOPP
@@ -9104,6 +9105,7 @@
 բաղադրական/DE
 բաղադրամաս/DEABGEINLOPM
 բաղադրանյութ/DEABGEINLOPM
+բաղադրատոմս/DEABGEINLOPM
 բաղադրել/CHVAVBDEA2G2INLO
 բաղադրիչ/DEABGEINLOPP
 բաղադրյալ/DEABGEINLOPP
@@ -13142,6 +13144,7 @@
 գիտականապես
 գիտականորեն
 գիտականություն/DEABG1I1INLOPP
+գիտակարգ/DEABGEINLOPM
 գիտակենսագրական/DEABGEINLOPP
 գիտակից/DEAXGXIXLXPP
 գիտակցաբար
@@ -13155,6 +13158,7 @@
 գիտակություն/DEABG1I1INLOPP
 գիտահանրամատչելի/DEABGEINLOPP
 գիտահետազոտական/DE
+գիտաճյուղ/DEABGEINLOPM
 գիտամատերիալիստական/DEABGEINLOPP
 գիտամատչելի/DEABGEINLOPP
 գիտաշխատակից/DEAXGXIXLXPP
@@ -14948,6 +14952,7 @@
 դասընթացային/DEABGEINLOPP
 դասընկեր/DEABGEINLOG8PP
 դասընկերուհի/DEA2G2I2L2PP
+դասիչ/DEABGEINLOPP
 դասղեկ/DEABGEINLOPP
 դասվար/DEABGEINLOPP
 դասվել/CHVAVBDEA2G2INLO
@@ -18518,6 +18523,7 @@
 զանազանակերպություն/DEABG1I1INLOPP
 զանազանել/CHVAVBDEA2G2INLO
 զանազանիչ/DEABGEINLOPP
+զանազանեցում/DEABG9I3GEPPIN
 զանազանվել/CHVAVBDEA2G2INLO
 զանազանություն/DEABG1I1INLOPP
 զանազանում/DEABG9I3GEPPIN
@@ -30183,6 +30189,7 @@
 կերցավ/DEABGEINLOPM
 կերցնել/CHVAVEDEA2G2INLO
 կերուխում/DEABG9I3GEPPIN
+կեցավայր/DEABGEINLOPM
 կեցվածք/DEABGEINLOPP
 կեցցե
 կեցցեմ
@@ -33052,6 +33059,7 @@
 համախորհուրդ/DEPPAXGXIXLX
 համախորտակում/DEABG9I3GEPPIN
 համախռնում/DEABG9I3GEPPIN
+համախտանիշ/DEABGEINLOPP
 համախումբ/DEPXAXGXIXLX
 համածավալ/DEABGEINLOPP
 համածին/DEAXGXIXLXPP
@@ -34914,6 +34922,7 @@
 հավատաքննական/DEABGEINLOPP
 հավատաքննիչ/DEABGEINLOPP
 հավատաքննություն/DEABG1I1INLOPP
+հավատո/DEA4G4I4L4
 հավատչեք/DEABGEINLOPP
 հավատչյա
 հավատուրաց/DEABGEINLOPP
@@ -57157,7 +57166,7 @@
 վետ/DEABGEINLOPM
 վետերան/DEABGEINLOPP
 վետիվետ/DE
-վետո/DEABGEINLOPP
+վետո/DEA4G4I4L4
 վետվետ/DE
 վետվետալ/CHVAVCDEA2G2INLO
 վետվետում/DEABG9I3GEPPIN
