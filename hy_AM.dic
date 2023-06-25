@@ -5379,6 +5379,7 @@
 աշխարհաստեղծ/DEABGEINLO
 աշխարհաստեղծություն/DEABG1I1INLOPP
 աշխարհասփյուռ/DE
+աշխարհավարակ/DEABGEINLOPP
 աշխարհավեր/DEABGEINLO
 աշխարհատես/DEABGEINLOPM
 աշխարհատեսություն/DEABG1I1INLOPP
@@ -8072,6 +8073,7 @@
 արտահանել/CHVAVBDEA2G2INLO
 արտահանելի/DEABGEINLOPP
 արտահանիչ/DEABGEINLOPP
+արտահանձնում/DEABG9I3GEPPIN
 արտահանող/DEABGEINLOPP
 արտահանվել/CHVAVBDEA2G2INLO
 արտահանություն/DEABG1I1INLOPP
@@ -28817,6 +28819,7 @@
 կանխագուշակում/DEABG9I3GEPPIN
 կանխադրույթ/DEABGEINLOPP
 կանխազգալ/CHVAVBDEA2G2INLO
+կանխազգացական/DE
 կանխազգացում/DEABG9I3GEPPIN
 կանխազգուշացում/DEABG9I3GEPPIN
 կանխակալ/DEABGEINLOPP
@@ -31410,6 +31413,7 @@
 կոշկագործություն/DEABG1I1INLO
 կոշկաթել/DEABGEINLOPM
 կոշկախթան/DEABGEINLOPP
+կողկակապ/DEABGEINLOPM
 կոշկակար/DEABGEINLOPP
 կոշկակարական/DE
 կոշկակարային/DE
@@ -33234,6 +33238,8 @@
 համանունաբանություն/DEABG1I1INLOPP
 համանունաբար
 համանունություն/DEABG1I1INLOPP
+համաշխատող/DEABGEINLOPP
+համավարակ/DEABGEINLOPP
 համաշխարհ/DEABGEINLOPP
 համաշխարհային/DEABGEINLOPP
 համաշխարհաքաղաքացի/DEA2G2I2L2PP
@@ -34154,6 +34160,7 @@
 հանիկ/DEABGEINLOPP
 հանիրավի/DEABGEINLOPP
 հանկարծ
+հանկարծաբուխ/DE
 հանկարծադեպ/DE
 հանկարծադիպություն/DEABG1I1INLO
 հանկարծաթափ
@@ -37777,6 +37784,7 @@
 հորում/DEABG9I3GEPPIN
 հորքուր/DEABGEINLOPP
 հպանցիկ/DE
+հպավարակիչ/DE
 հպատակ/DEABGEINLOPP
 հպատակագրել/CHVAVBDEA2G2INLO
 հպատակագրվել/CHVAVBDEA2G2INLO
@@ -37912,6 +37920,7 @@
 հրահան/DEABGEINLOPP
 հրահանավոր/DEABGEINLOPP
 հրահանգ/DEABGEINLOPP
+հրահանգավորում/DEABG9I3GEPPIN
 հրահանգել/CHVAVBDEA2G2INLO
 հրահանգիչ/DEABGEINLOPP
 հրահանգչական/DEABGEINLOPP
@@ -42303,6 +42312,7 @@
 մզմուզ/DEABGEINLOPP
 մզվածք/DEABGEINLOPP
 մզրախ/DEABGEINLOPP
+մզուկ/DEABGEINLOPP
 մզում/DEABG9I3GEPPIN
 մզուք/DEABG9I3GEPPIN
 մըռթմըռթալ/CHVAVCDEA2G2INLO
@@ -45175,6 +45185,7 @@
 նշադրում/DEABG9I3GEPPIN
 նշակաթ/DEABGEINLO
 նշաձեթ/DEABGEINLOPM
+նշաձող/DEABGEINLOPM
 նշաձև/DE
 նշային/DEABGEINLOPP
 նշայուղ/DEABGEINLOPP
@@ -50240,6 +50251,7 @@
 պարարտություն/DEABG1I1INLOPP
 պարարուն/DEABGEINLOPP
 պարացնել/CHVAVEDEA2G2INLO
+պարբերակ/DEABGEINLOPP
 պարբերաբար
 պարբերաթերթ/DEABGEINLOPM
 պարբերական/DEABGEINLOPP
@@ -60333,8 +60345,10 @@
 ցավոք
 ցատկ/DEABGEINLOPM
 ցատկաբզեզ/DEABGEINLOPP
+ցատկահարթակ/DEABGEINLOPP
 ցատկամուկ/DEGDPX
 ցատկապարան/DEABGEINLOPP
+ցատկատախտակ/DEABGEINLOPP
 ցատկել/CHVAVBDEA2G2INLO
 ցատկյուն/DEABGEINLOPP
 ցատկոտել/CHVAVBDEA2G2INLO
@@ -60649,6 +60663,7 @@
 ցողափայլ/DE
 ցողել/CHVAVBDEA2G2INLO
 ցողիկ/DEABGEINLOPP
+ցողիչ/DEABGEINLOPP
 ցողոտ-շաղոտ
 ցողոտ/DE
 ցողվել/CHVAVBDEA2G2INLO
