@@ -5266,6 +5266,7 @@
 աշխատազուրկ/DEABGEINLO
 աշխատաժամ/DEABGEINLOPM
 աշխատաժամանակ/DEABGEINLOPP
+աշխատաժողով/DEABGEINLOPP
 աշխատակազմ/DEABGEINLOPM
 աշխատակարգ/DEABGEINLOPM
 աշխատակից/DEAXGXIXLXPP
@@ -19826,6 +19827,7 @@
 ընդգրկելի/DEABGEINLOPP
 ընդգրկվել/CHVAVBDEA2G2INLO
 ընդգրկում/DEABG9I3GEPPIN
+ընդգրկուն/DE
 ընդդատյա/DE
 ընդդատություն/DEABG1I1INLOPP
 ընդդեմ
@@ -20034,6 +20036,7 @@
 ընկղմել/CHVAVBDEA2G2INLO
 ընկղմվել/CHVAVBDEA2G2INLO
 ընկղմում/DEABG9I3GEPPIN
+ընկճախտ/DEABGEINLOPP
 ընկճել/CHVAVBDEA2G2INLO
 ընկճված/DE
 ընկճվածություն/DEABG1I1INLO
@@ -23270,6 +23273,7 @@
 լեռնագավառ/DEABGEINLOPP
 լեռնագյուղ/DEABGEINLOPM
 լեռնագնաց/DEABGEINLOPP
+լեռնագնացություն/DEABG1I1INLOPP
 լեռնագոգ/DEABGEINLOPM
 լեռնագոյացում/DEABG9I3GEPPIN
 լեռնագոտի/DEA2G2I2L2PP
@@ -23365,6 +23369,7 @@
 լեռնարդյունաբերական
 լեռնարդյունաբերություն/DEABG1I1INLO
 լեռնարծիվ/DEAXGXIXLXPP
+լեռնարշավ/DEABGEINLOPP
 լեռնարևաբուժում/DEABG9I3GEPPIN
 լեռնացնել/CHVAVEDEA2G2INLO
 լեռնացում/DEABG9I3GEPPIN
@@ -23841,6 +23846,7 @@
 լրակազմել/CHVAVBDEA2G2INLO
 լրահավաք/DEABGEINLOPP
 լրահոս/DEABGEINLOPP
+լրաճարակ/DEABGEINLOPP
 լրանալ/CHVAVCDEA2G2INLO
 լրատար/DEABGEINLOPP
 լրատվական/DE
@@ -28804,7 +28810,7 @@
 կանխաբանություն/DEABG1I1INLOPP
 կանխաբանում/DEABG9I3GEPPIN
 կանխաբար
-կանխագետ
+կանխագետ/DEABGEINLOPP
 կանխագիտակ/DEABGEINLOPP
 կանխագիտություն/DEABG1I1INLOPP
 կանխագծել/CHVAVBDEA2G2INLO
@@ -29993,11 +29999,12 @@
 կենսափորձ/DEABGEINLOPM
 կենսաքիմիկոս/DEABGEINLOPP
 կենսըմբռնում/DEABG9I3GEPPIN
+կենսոլորտ/DEABGEINLO
 կենսուժ/DEABG9I3GEPPIN
 կենսուղի/DEA2G2I2L2PP
 կենսունակ/DEABGEINLOPP
 կենսունակություն/DEABG1I1INLOPP
-կենսուրախ/DEABGEINLOPP
+կենսուրախ/DE
 կենսուրախություն/DEABG1I1INLOPP
 կենվոր/DEABGEINLOPP
 կենտ/DEABGEINLOPM
@@ -30006,7 +30013,7 @@
 կենտկոմ/DEABGEINLOPP
 կենտվիճվարչություն/DEABG1I1INLOPP
 կենտրոն/DEABGEINLOPP
-կենտրոնազանց/DEABGEINLOPP
+կենտրոնազանց/DE
 կենտրոնազանցություն/DEABG1I1INLOPP
 կենտրոնախույզ/DE
 կենտրոնախույս/DE
@@ -32971,6 +32978,7 @@
 համա
 համա-համա
 համաբան/DE
+համաբանություն/DEABG1I1INLOPP
 համաբարբառ/DEABGEINLOPP
 համաբնակիչ/DEAXGXIXLXPP
 համաբնակություն/DEABG1I1INLO
@@ -33074,6 +33082,7 @@
 համածավալ/DEABGEINLOPP
 համածին/DEAXGXIXLXPP
 համակ/DEABGEINLOPP
+համակազմ/DEABGEINLOPP
 համակամ/DEABGEINLOPP
 համակամություն/DEABG1I1INLOPP
 համակառույց/DEABGEINLOPP
@@ -48608,6 +48617,7 @@
 չարքաշություն/DEABG1I1INLOPP
 չափ-չուփ
 չափ/DEABGEINLOPM
+չափաբաժին/DEAXGXIXLXPP
 չափաբերաբար
 չափաբերական/DEABGEINLOPP
 չափաբերություն/DEABG1I1INLOPP
@@ -48657,6 +48667,7 @@
 չափափորձ/DEABGEINLOPM
 չափափորձել/CHVAVBDEA2G2INLO
 չափափորձում/DEABG9I3GEPPIN
+չափաքանակ/DEABGEINLOPP
 չափաքանոն/DEABGEINLOPP
 չափել-կշռել/CHVAVBDEA2G2INLO
 չափել-ձևել/CHVAVBDEA2G2INLO
