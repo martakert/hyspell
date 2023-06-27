@@ -1,4 +1,4 @@
-65381
+65395
 Ալբանիա/DEA4G4I4L4PP
 Արմենիա/DEA4G4I4L4
 Արցախ/DEABGEINLO
@@ -2941,6 +2941,7 @@
 անզգամանալ/CHVAVCDEA2G2INLO
 անզգամացնել/CHVAVEDEA2G2INLO
 անզգամություն/DEABG1I1INLOPP
+անզգայաբան/DEABGEINLOPP
 անզգայաբար
 անզգայական/DEABGEINLOPP
 անզգայանալ/CHVAVCDEA2G2INLO
@@ -2954,7 +2955,7 @@
 անզգայունակ/DEABGEINLOPP
 անզգաստ/DEABGEINLO
 անզգաստություն/DEABG1I1INLOPP
-անզգացմունք/DEABGEINLOPP
+անզգացմունք/DE
 անզգոն
 անզգոնություն/DEABG1I1INLOPP
 անզգույշ/DEABGEINLOPP
@@ -10205,6 +10206,7 @@
 բեմ/DEABGEINLOPM
 բեմադրական/DEABGEINLOPP
 բեմադրել/CHVAVBDEA2G2INLO
+բեմադրիչ/DEABGEINLOPP
 բեմադրող/DEABGEINLOPP
 բեմադրվել/CHVAVBDEA2G2INLO
 բեմադրություն/DEABG1I1INLOPP
@@ -10744,8 +10746,9 @@
 բնաշրջվել/CHVAVBDEA2G2INLO
 բնաշրջություն/DEABG1I1INLOPP
 բնաշրջում/DEABG9I3GEPPIN
+բնապահպան/DEABGEINLOPP
 բնապաշտ/DEABGEINLOPP
-բնապաշտական/DEABGEINLOPP
+բնապաշտական/DE
 բնապաշտություն/DEABG1I1INLOPP
 բնապատկեր/DEABGEINLOPP
 բնապատմական/DEABGEINLOPP
@@ -18752,6 +18755,7 @@
 զբոսասեր/DEABGEINLOPP
 զբոսասրահ/DEABGEINLOPP
 զբոսավայր/DEABGEINLOPM
+զբոսավար/DEABGEINLOPP
 զբոսատեղ/DEABGEINLOPM
 զբոսարան/DEABGEINLOPP
 զբոսնել/CHVAVBDEA2G2INLO
@@ -22600,6 +22604,7 @@
 ինքնասիրահարվածություն/DEABG1I1INLOPP
 ինքնասիրություն/DEABG1I1INLOPP
 ինքնասպան/DEABGEINLOPP
+ինքնասպանագետ/DEABGEINLOPP
 ինքնասպանություն/DEABG1I1INLOPP
 ինքնասպասարկել/CHVAVBDEA2G2INLO
 ինքնասպասարկություն/DEABG1I1INLOPP
@@ -23370,6 +23375,7 @@
 լեռնարդյունաբերություն/DEABG1I1INLO
 լեռնարծիվ/DEAXGXIXLXPP
 լեռնարշավ/DEABGEINLOPP
+լեռնարշավորդ/DEABGEINLOPP
 լեռնարևաբուժում/DEABG9I3GEPPIN
 լեռնացնել/CHVAVEDEA2G2INLO
 լեռնացում/DEABG9I3GEPPIN
@@ -26815,6 +26821,7 @@
 ծաղկահատություն/DEABG1I1INLOPP
 ծաղկահատում/DEABG9I3GEPPIN
 ծաղկահար/DEABGEINLO
+ծաղկահարդար/DEABGEINLOPP
 ծաղկահետք/DEABGEINLOPM
 ծաղկահյութ/DEABGEINLOPM
 ծաղկահյուս/DE
@@ -33193,6 +33200,7 @@
 համաճարակաբան/DEABGEINLOPP
 համաճարակաբանական/DEABGEINLOPP
 համաճարակաբանություն/DEABG1I1INLOPP
+համաճարակագետ/DEABGEINLOPP
 համաճարակագիտության
 համաճարակային/DEABGEINLOPP
 համամայր/DEG7PM
@@ -47311,6 +47319,8 @@
 շուլալում/DEABG9I3GEPPIN
 շուկա/DEA4G4I4L4PP
 շուկայագին/DEPXAXGXIXLX
+շուկայաբան/DEABGEINLOPP
+շուկայագետ/DEABGEINLOPP
 շուկայական/DE
 շուկայապետ/DEABGEINLOPP
 շուկայատեղ/DEABGEINLOPM
@@ -47698,6 +47708,7 @@
 ոճաբանել/CHVAVBDEA2G2INLO
 ոճաբանություն/DEABG1I1INLOPP
 ոճաբանում/DEABG9I3GEPPIN
+ոճագետ/DEABGEINLOPP
 ոճազարդել/CHVAVBDEA2G2INLO
 ոճազարդվել/CHVAVBDEA2G2INLO
 ոճազարդում/DEABG9I3GEPPIN
@@ -56810,6 +56821,7 @@
 վարազաորս/DEABGEINLOPM
 վարազենի/DEA2G2I2L2PP
 վարակ/DEABGEINLOPP
+վարակաբան/DEABGEINLOPP
 վարակազերծ/DEABGEINLOPP
 վարակազերծել/CHVAVBDEA2G2INLO
 վարակազերծվել/CHVAVBDEA2G2INLO
@@ -57631,6 +57643,7 @@
 վերի/DEABGEINLOPP
 վերին/DEABGEINLOPP
 վերից-վար
+վերլուծաբան/DEABGEINLOPP
 վերլուծաբար
 վերլուծական/DEABGEINLOPP
 վերլուծել/CHVAVBDEA2G2INLO
@@ -58143,6 +58156,7 @@
 վնասարարություն/DEABG1I1INLOPP
 վնասել/CHVAVBDEA2G2INLO
 վնասվածք/DEABGEINLOPP
+վնասվածքաբան/DEABGEINLOPP
 վնասվել/CHVAVBDEA2G2INLO
 վնասում/DEABG9I3GEPPIN
 վնգալ/CHVAVBDEA2G2INLO
