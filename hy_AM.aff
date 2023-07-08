@@ -228,7 +228,7 @@ SFX AX դուռ		դռնից/DE .
 
 # միութեամբ, արեամբ
 SFX I1 Y 1
-SFX I1   յուն	յամբ/DE          .
+SFX I1   յուն	յամբ
 
 # եկեղեցով
 SFX I2 Y 1
@@ -242,6 +242,10 @@ SFX I3 մեջ	միջով/DE .
 SFX I4 Y 2
 SFX I4  ա       այով/DE .
 SFX I4  ո       ոյով/DE .
+
+# ում → մամբ
+SFX I5 Y 1
+SFX I5 ում      մամբ
 
 # instrumental
 SFX IN Y 5
