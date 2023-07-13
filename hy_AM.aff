@@ -245,7 +245,7 @@ SFX I4  ո       ոյով/DE .
 
 # ում → մամբ
 SFX I5 Y 1
-SFX I5 ում      մամբ/DE .
+SFX I5 ում      մամբ .
 
 # instrumental
 SFX IN Y 5
