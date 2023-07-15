@@ -1,4 +1,4 @@
-65451
+65457
 Ալբանիա/DEA4G4I4L4PP
 Արմենիա/DEA4G4I4L4
 Արցախ/DEABGEINLO
@@ -5392,6 +5392,7 @@
 աշխարհացույց/DEABGEINLOPP
 աշխարհացունց/DEABGEINLO
 աշխարհաքաղաքական/DE
+աշխարհաքաղաքականություն/DEABG1I1INLOPP
 աշխարհաքաղաքացի/DEA2G2I2L2PP
 աշխարհաքաղաքացիական/DEABGEINLOPP
 աշխարհաքաղաքացիություն/DEABG1I1INLOPP
@@ -19624,6 +19625,8 @@
 էլեկտրոնային/DEABGEINLOPP
 էլեկտրուղի/DEA2G2I2L2PP
 էլի/DEA2G2I2L2PP
+էլհասցե/DEABGEINLOPP
+էլփոստ/DEABGEINLOPM
 էծ/DEABGEINLO
 էկզոտիկա/DEA4G4I4L4PP
 էկլեկտիկա/DEA4G4I4L4PP
@@ -36260,9 +36263,9 @@
 հետապնդել/CHVAVBDEA2G2INLO
 հետապնդվել/CHVAVBDEA2G2INLO
 հետապնդություն/DEABG1I1INLOPP
-հետապնդում/DEABG9I3GEPPIN
-հետասահում/DEABG9I3GEPPIN
-հետասերում/DEABG9I3GEPPIN
+հետապնդում/DEABG9I3GEPPI5IN
+հետասահում/DEABG9I3GEPPI5IN
+հետասերում/DEABG9I3GEPPI5IN
 հետաքնին/DEABG9I3GEPPIN
 հետաքննել/CHVAVBDEA2G2INLO
 հետաքննվել/CHVAVBDEA2G2INLO
@@ -36286,6 +36289,7 @@
 հետգրություն/DEABG1I1INLO
 հետե
 հետզհետե
+հետընդունում/DEABG9I3GEPPI5IN
 հետընթաց/DE
 հետընթացիկ/DE
 հետընթացություն/DEABG1I1INLO
@@ -45930,6 +45934,7 @@
 շաբաթապահ/DEABGEINLOPP
 շաբաթապաս/DEABGEINLO
 շաբաթավարձ/DEABGEINLOPM
+շաբաթավերջ/DEABGEINLOPM
 շաբաթօր/DEAAGAINLOPMGEAB
 շաբաթօրյա
 շաբաթօրյակ/DEABGEINLOPP
@@ -47345,7 +47350,7 @@
 շրջսովետ/DEABGEINLOPP
 շրջվել/CHVAVBDEA2G2INLO
 շրջուղի/DEA2G2I2L2PP
-շրջում/DEABG9I3GEPPIN
+շրջում/DEABG9I3GEPPI5IN
 շրջուն/DEABG9I3GEPPIN
 շրտըվիկ/DEABGEINLOPP
 շրտվիկ/DEABGEINLOPP
@@ -47354,15 +47359,16 @@
 շուլա/DEA4G4I4L4PP
 շուլալակար/DEABGEINLOPM
 շուլալակարել/CHVAVBDEA2G2INLO
-շուլալակարում/DEABG9I3GEPPIN
+շուլալակարում/DEABG9I3GEPPI5IN
 շուլալել/CHVAVBDEA2G2INLO
 շուլալվածք/DEABGEINLOPP
 շուլալվել/CHVAVBDEA2G2INLO
-շուլալում/DEABG9I3GEPPIN
+շուլալում/DEABG9I3GEPPI5IN
 շուկա/DEA4G4I4L4PP
 շուկայագին/DEPXAXGXIXLX
 շուկայաբան/DEABGEINLOPP
 շուկայագետ/DEABGEINLOPP
+շուկայագիտություն/DEABG1I1INLOPP
 շուկայական/DE
 շուկայապետ/DEABGEINLOPP
 շուկայատեղ/DEABGEINLOPM
