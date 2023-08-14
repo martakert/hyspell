@@ -1,4 +1,4 @@
-65483
+65493
 Ալբանիա/DEA4G4I4L4PP
 Արմենիա/DEA4G4I4L4
 Արցախ/DEABGEINLO
@@ -38,8 +38,8 @@
 Մինսկ/DEABGEINLO
 Մոսկվա/DEA4G4I4L4PP
 Նախիջևան/DEABGEINLOPP
-Ոուզբեկստան/DEABGEINLO
-Ոուկրաինա/DEA4G4I4L4
+Ուզբեկստան/DEABGEINLO
+Ուկրաինա/DEA4G4I4L4
 Չեխիա/DEA4G4I4L4PP
 Պրահա/DEA4G4I4L4PP
 Ռումինիա/DEA4G4I4L4PP
@@ -654,7 +654,7 @@
 ախտորոշվել/CHVAVBDEA2G2INLO
 ախտորոշում/DEABG9I3GEPPIN
 ախր/DEABGEINLOPP
-ախուվախ/DEABGEINLOPM
+ախուվախ/DEABGEINLOPMՈւզբեկստան
 ախուվիշ
 ած/DEABGEINLO
 ածական/DEABGEINLOPP
@@ -4754,6 +4754,7 @@
 անվանակոչություն/DEABG1I1INLOPP
 անվանակցություն/DEABG1I1INLOPP
 անվանապես
+անվանատառ/DEABGEINLOPM
 անվանարկ/DEABGEINLOPP
 անվանարկել/CHVAVBDEA2G2INLO
 անվանարկիչ/DEPPAXGXIXLX
@@ -15367,6 +15368,7 @@
 դեղաթուրմ/DEABGEINLOPM
 դեղախոտ/DEABGEINLOPM
 դեղախունկ/DEPXAXGXIXLX
+դեղահաբ
 դեղահատ/DEABGEINLOPP
 դեղահատիկ/DEABGEINLOPP
 դեղահոտ/DEABGEINLOPM
@@ -19907,6 +19909,7 @@
 ընդհանրացվել/CHVAVBDEA2G2INLO
 ընդհանրացում/DEABG9I3GEPPIN
 ընդհանրություն/DEABG1I1INLOPP
+ընդհանրույթ
 ընդհանուր/DEABGEINLOPP
 ընդհատ-ընդհատ
 ընդհատ/DEABGEINLO
@@ -34565,6 +34568,8 @@
 հաշվեցուցակ/DEABGEINLOPP
 հաշվեքանոն/DEABGEINLOPP
 հաշվեքարտ/DEABGEINLOPM
+հաշվեքննիչ/DEABG1INLOPP
+հաշվեքննող/DEABGEINLOPP
 հաշվիչ/DEABGEINLOPP
 հաշվվել/CHVAVBDEA2G2INLO
 հաշվում/DEABG9I3GEPPIN
@@ -39580,13 +39585,14 @@
 ճառաբանել/CHVAVBDEA2G2INLO
 ճառաբանություն/DEABG1I1INLOPP
 ճառագայթ/DEABGEINLOPP
-ճառագայթաբեկում/DEABG9I3GEPPIN
+ճառագայթաբեկում/DEABG9I3GEPPI5IN
 ճառագայթաբեր/DEABGEINLO
-ճառագայթաբուժում/DEABG9I3GEPPIN
+ճառագայթաբուժում/DEABG9I3GEPPI5IN
 ճառագայթադեմ/DE
 ճառագայթազարդ/DEABGEINLOPM
 ճառագայթալից/DE
 ճառագայթաձև/DE
+ճառագայթահարումDEABG9I3GEPPI5IN
 ճառագայթային/DEABGEINLOPP
 ճառագայթաչափ/DEABGEINLOPP
 ճառագայթաչափական/DEABGEINLOPP
@@ -45208,6 +45214,7 @@
 նմանօրինակ/DEABGEINLOPP
 նմուշ/DEABGEINLOPP
 նյարդ/DEABGEINLOPM
+նյարդաբան/DEABGEINLOPP
 նյարդաբանական/DE
 նյարդաբանություն/DEABG1I1INLO
 նյարդագար/DEABGEINLOPP
@@ -47683,6 +47690,7 @@
 ողնուցք/DEABGEINLOPP
 ողոգել/CHVAVBDEA2G2INLO
 ողող/DEABGEINLOPP
+ողողամաշում/DEABG9I3GEPPI5IN
 ողողանք/DEABGEINLOPP
 ողողատ/DEABGEINLOPP
 ողողատային/DEABGEINLOPP
@@ -48295,6 +48303,7 @@
 որմնաշարք/DEABGEINLOPM
 որմնապատել/CHVAVBDEA2G2INLO
 որմնապատում/DEABG9I3GEPPIN
+որմնաջահ/DEABGEINLOPM
 որմնասյուն/DEABG1INLOPP
 որմնափակ/DEABGEINLOPP
 որմնափակել/CHVAVBDEA2G2INLO
@@ -49609,6 +49618,7 @@
 պաշտոնակատար/DEABGEINLOPP
 պաշտոնակատարություն/DEABG1I1INLO
 պաշտոնակարգել/CHVAVBDEA2G2INLO
+պաշտոնակարգություն/DEABG1I1INLO
 պաշտոնակից/DEAXGXIXLXPP
 պաշտոնակցություն/DEABG1I1INLO
 պաշտոնամոլ/DEABGEINLOPP
