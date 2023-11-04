@@ -1,4 +1,4 @@
-65530
+65536
 Ալբանիա/DEA4G4I4L4PP
 Արմենիա/DEA4G4I4L4
 Արցախ/DEABGEINLO
@@ -5974,6 +5974,7 @@
 առաջնային/DEABGEINLOPP
 առաջնաստեղծ/DEABGEINLOPP
 առաջնատեսակ/DEABGEINLOPP
+առաջնելույթ/DEABGEINLOPP
 առաջնեկ/DEABGEINLOPP
 առաջնետում/DEABG9I3GEPPIN
 առաջնորդ/DEABGEINLOPP
@@ -6938,6 +6939,7 @@
 ավտովթար/DEABGEINLOPP
 ավտոտեսչություն/DEABG1I1INLO
 ավտոտեսուչ/DEABGEINLOPP
+ավտոտնակ/DEABGEINLOPP
 ավտոտնտեսություն/DEABG1I1INLO
 ավտոտրակտորային/DE
 ավտոտրանսպորտ/DEABGEINLOPP
@@ -18120,6 +18122,7 @@
 երկդուռ/DEPXAXGXIXLX
 երկեղջյուր/DE
 երկեղջյուրավոր/DE
+երկերգ/DEABGEINLOPM
 երկերեսանի/DEA2G2I2L2PP
 երկերեսանիորեն
 երկերեսանիություն/DEABG1I1INLOPP
@@ -19210,6 +19213,7 @@
 զորեղացվել/CHVAVBDEA2G2INLO
 զորեղացում/DEABG9I3GEPPIN
 զորեղություն/DEABG1I1INLO
+զորէջք/DEABGEINLOPP
 զորություն/DEABG1I1INLO
 զորք/DEABGEINLOPM
 զորօրինակ/DEABGEINLOPP
@@ -31494,6 +31498,7 @@
 կոշկավաճառ/DEABGEINLOPP
 կոշկատակ/DEABGEINLOPM
 կոշկեղեն/DEABGEINLO
+կոշկերես/DEABGEINLOPP
 կոշտ/CCDEABGEINLO
 կոշտաբար
 կոշտաբուրդ/DEPXAXGXIXLX
@@ -43112,6 +43117,7 @@
 մկրտություն/DEABG1I1INLOPP
 մկրտում/DEABG9I3GEPPIN
 մղդսի/DEABG9I3GEPPIN
+մղան/DEABGEINLOPP
 մղել/CHVAVBDEA2G2INLO
 մղեղ/DEABGEINLOPP
 մղիչ/DEABGEINLOPP
