@@ -8190,6 +8190,7 @@
 արտատպություն/DEABG1I1INLOPP
 արտատպում/DEABG9I3GEPPIN
 արտարգանդային/DEABGEINLOPP
+արտարժույթ/DEABGEINLOPP
 արտացոլանք/DEABGEINLOPP
 արտացոլել/CHVAVBDEA2G2INLO
 արտացոլիչ/DE
@@ -16483,6 +16484,7 @@
 դրամագիտական/DEABGEINLOPP
 դրամագիտություն/DEABG1I1INLOPP
 դրամագլուխ/DEPPAXGXIXLX
+դրամաթողարկում/DEABGEINLOPP
 դրամաթուղթ/DEPXAXGXIXLX
 դրամաիրային/DEABGEINLOPP
 դրամական/DEABGEINLOPP
@@ -17271,6 +17273,7 @@
 եռագիծ/DEPXAXGXIXLX
 եռագլուխ/DEPPAXGXIXLX
 եռագմբեթ/DE
+եռագրություն/DEABG1I1INLOPP
 եռագույն/DE
 եռադաշտ/DEABGEINLOPM
 եռադաշտային/DEABGEINLOPP
@@ -17352,7 +17355,8 @@
 եռապատիկ/DEABGEINLOPP
 եռապատկել/CHVAVBDEA2G2INLO
 եռապատկվել/CHVAVBDEA2G2INLO
-եռապատկում/DEABG9I3GEPPIN
+եռապատկում/DEABG9I3GEPPI5IN
+եռապատում/DEABG9I3GEPPI5IN
 եռապետ/DEABGEINLOPP
 եռապետական/DEABGEINLOPP
 եռապետություն/DEABG1I1INLOPP
@@ -17787,6 +17791,7 @@
 երերացնել/CHVAVEDEA2G2INLO
 երերափայլ/DEABGEINLOPM
 երերաքայլ/DEABGEINLOPM
+եռերգություն/DEABG1I1INLOPP
 երերել/CHVAVBDEA2G2INLO
 երերկոտ/DEABGEINLOPP
 երերում/DEABG9I3GEPPIN
@@ -35378,6 +35383,7 @@
 հարատևորեն
 հարատևություն/DEABG1I1INLOPP
 հարատևում/DEABG9I3GEPPIN
+հարացույց/DEABGEINLOPP
 հարափայլ/DE
 հարափթիթ/DE
 հարափոխ/DE
@@ -36237,6 +36243,7 @@
 հեռապատկեր/DEABGEINLOPP
 հեռասլաց/DE
 հեռաստան/DEABGEINLOPP
+հեռավար/DE
 հեռավոր/CCDEABGEINLOPP
 հեռավորություն/DEABG1I1INLOPP
 հեռատես/DEABGEINLOPM
@@ -58464,6 +58471,7 @@
 վտանգել/CHVAVBDEA2G2INLO
 վտանգվել/CHVAVBDEA2G2INLO
 վտառ/DEABGEINLOPP
+վտարակ/DEABGEINLOPP
 վտարանդել/CHVAVBDEA2G2INLO
 վտարանդի/CHVAVBDEA2G2INLO
 վտարանդիություն/DEABG1I1INLOPP
@@ -59008,6 +59016,7 @@
 տարագրություն/DEABG1I1INLOPP
 տարագրում/DEABG9I3GEPPIN
 տարադեպ/DE
+տարադրամ/DEABGEINLOPP
 տարազ/DEABGEINLOPP
 տարազահանդես/DEABGEINLOPP
 տարազամոլ/DEABGEINLOPP
@@ -59184,6 +59193,7 @@
 տարհամոզիչ/DEABGEINLOPP
 տարհամոզվել/CHVAVBDEA2G2INLO
 տարհամոզում/DEABG9I3GEPPIN
+տարհանում/DEABG9I3GEPPI5IN
 տարմ/DEABGEINLOPM
 տարմահավ/DEABGEINLOPM
 տարմերժորեն
@@ -59445,6 +59455,7 @@
 տեղկոմ/DEABGEINLOPP
 տեղյակ
 տեղնուտեղը/DEABG1I1INLOPP
+տեղորոշիչ/DEABGEINLOPP
 տեղում/DEABG9I3GEPPIN
 տեղփոխ/DEABGEINLOPP
 տեղփոխել/CHVAVBDEA2G2INLO
@@ -62905,6 +62916,7 @@
 փոխնիփոխություն/DEABG1I1INLOPP
 փոխնորդ/DEABGEINLOPP
 փոխշահավետ/DE
+փոխպատվաստում/DEABG9I3GEPPIN
 փոխս/DEABGEINLO
 փոխստուգում/DEABG9I3GEPPIN
 փոխվարպետ/DEABGEINLOPP
