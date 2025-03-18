@@ -1,4 +1,4 @@
-65610
+65622
 Ալբանիա/DEA4G4I4L4PP
 Արմենիա/DEA4G4I4L4
 Արցախ/DEABGEINLO
@@ -2535,6 +2535,7 @@
 անբարոյականացնել/CHVAVEDEA2G2INLO
 անբարոյականացում/DEABG9I3GEPPIN
 անբարոյականություն/DEABG1I1INLOPP
+անբարոյացում/DEABG9I3GEPPIN
 անբացահայտ/DEABG1I1INLOPP
 անբացատրելի/DEABGEINLOPP
 անբացատրելիորեն
@@ -6644,6 +6645,7 @@
 աստվածապաշտ/DEABGEINLOPP
 աստվածապաշտական/DE
 աստվածապաշտություն/DEABG1I1INLO
+աստվածապետություն/DEABG1I1INLOPP
 աստվածասեր/DEABGEINLOPP
 աստվածասիրություն/DEABG1I1INLO
 աստվածասպան/DEABGEINLOPP
@@ -6953,6 +6955,7 @@
 ավտոտրանսպորտ/DEABGEINLOPP
 ավտոտրանսպորտային/DE
 ավտոուղի/DEA2G2I2L2PP
+ավտոքարշակ/DEABGEINLOPP
 ավուրչեք/DEABGEINLOPP
 ատակ/DEABGEINLOPP
 ատակել/CHVAVBDEA2G2INLO
@@ -19462,6 +19465,7 @@
 զուգընթացորեն
 զուգընթացություն/DEABG1I1INLOPP
 զուգընկեր/DEABGEINLOG8PP
+զուգորդական/DE
 զուգորդել/CHVAVBDEA2G2INLO
 զուգորդվել/CHVAVBDEA2G2INLO
 զուգորդություն/DEABG1I1INLOPP
@@ -19481,7 +19485,7 @@
 զուռնա/DEA4G4I4L4PP
 զուռնաչի/DEA2G2I2L2PP
 զուսպ/DEABGEINLOPM
-զուտ/DEABGEINLOPM
+զուտ
 զուր/DEABGEINLOPM
 զուրգել/CHVAVBDEA2G2INLO
 զուրկ/DEABGEINLO
@@ -32335,6 +32339,7 @@
 կրոնակցություն/DEABG1I1INLO
 կրոնամոլ/DEABGEINLOPP
 կրոնամոլություն/DEABG1I1INLO
+կրոնապետություն/DEABG1I1INLOPP
 կրոնասեր/DE
 կրոնասիրական/DE
 կրոնասիրություն/DEABG1I1INLO
@@ -32982,6 +32987,7 @@
 հաղթապսակ/DEABGEINLOPP
 հաղթասյուն/DEABG1INLOPP
 հաղթավար/DEABGEINLOPP
+հաղթատոն/DEABGEINLOPM
 հաղթարշավ/DEABGEINLOPP
 հաղթաքայլ
 հաղթել/CHVAVBDEA2G2INLO
@@ -35171,6 +35177,7 @@
 հատակամաքրիչ/DEABGEINLOPP
 հատակային/DE
 հատականջ/DE
+հատակաջահ/DEABGEINLOPM
 հատակատախտակ/DEABGEINLOPP
 հատակաքսուկ/DEABGEINLOPP
 հատակել/CHVAVBDEA2G2INLO
@@ -39139,6 +39146,7 @@
 ձողանշել/CHVAVBDEA2G2INLO
 ձողապատնեշ/DEABGEINLOPP
 ձողապատվար/DEABGEINLOPP
+ձողաջահ/DEABGEINLOPM
 ձողացատկ/DEABGEINLOPM
 ձողափայտ/DEABGEINLOPM
 ձողաքանոն/DEABGEINLOPP
@@ -46630,6 +46638,7 @@
 շերտաբաժանում/DEABG9I3GEPPIN
 շերտագիծ/DEPXAXGXIXLX
 շերտագոյացում/DEABG9I3GEPPIN
+շերտագրություն/DEABG1I1INLOPP
 շերտադասվել/CHVAVBDEA2G2INLO
 շերտադարսել/CHVAVBDEA2G2INLO
 շերտադարսվել/CHVAVBDEA2G2INLO
@@ -59509,7 +59518,9 @@
 տեսաբանություն/DEABG1I1INLOPP
 տեսագետ/DEABGEINLOPP
 տեսագիտական/DEABGEINLOPP
+տեսագրություն/DEABG1I1INLOPP
 տեսադաշտ/DEABGEINLOPM
+տեսազանգ/DEABGEINLOPM
 տեսախաբություն/DEABG1I1INLOPP
 տեսածիր/DEABG1I1INLOPP
 տեսածրիչ/DEABGEINLOPP
@@ -59538,6 +59549,7 @@
 տեսանելիություն/DEABG1I1INLOPP
 տեսանելիք/DEABGEINLOPP
 տեսանկյուն/DEABG1I1INLOPP
+տեսանյութ/DEABGEINLOPM
 տեսանող/DEABGEINLOPP
 տեսանողական
 տեսանողություն/DEABG1I1INLOPP
